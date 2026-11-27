@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献慢读搭子"
+  short_description: "逐段翻译并解析论文，核对公式、图表与证据边界"
+  default_prompt: "用 $paper-reading-companion 从我指定的位置开始，陪我逐段读懂这篇论文。"
